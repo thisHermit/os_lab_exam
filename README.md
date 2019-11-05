@@ -2,17 +2,17 @@
 
 ## Programs
 
-* fcfs
-* sjf
+* Fcfs
+* Sjf
 * fork()
 * exec()
 * waitpid()
-* threads
-* memory management (??)
-* add numbers using threads
-* matrix multiplication using threads
-* use global variables to update content
-* round Robin
-* signals - sigalarm, sigint,
-* barber problem
-* consumer producer problem
+* Threads
+* Memory management (??)
+* Add numbers using threads
+* Matrix multiplication using threads
+* Use global variables to update content
+* Round Robin
+* Signals - sigalarm, sigint,
+* Barber problem
+* Consumer producer problem
